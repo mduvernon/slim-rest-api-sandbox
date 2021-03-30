@@ -5,7 +5,7 @@ Install the project via:
 `composer install
 `
 
-Create a copy of `app/setting.php.dist` to `app/setting.php`
+Create a copy of `app/settings.php.dist` to `app/settings.php`
 
 Initialize your database parameters.
 
