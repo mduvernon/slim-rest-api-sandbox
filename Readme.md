@@ -4,6 +4,9 @@ Install the project via:
 
 `composer install
 `
+Create a copy of `app/setting.php.dist` to `app/setting.php`
+
+Initialize your database parameters.
 
 Import the `importSql.sql` in your database
 
